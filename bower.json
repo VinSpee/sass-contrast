@@ -6,7 +6,7 @@
     "Brendan Saunders"
   ],
   "description": "A simple sass contrast mixin for picking the right content color",
-  "main": "index.scss",
+  "main": "contrast.scss",
   "keywords": [
     "sass",
     "contrast",
